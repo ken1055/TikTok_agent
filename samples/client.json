@@ -1,0 +1,14 @@
+{
+  "companyName": "リラクゼーションサロン CALM",
+  "industry": "美容・ウェルネス",
+  "services": "全身もみほぐし・アロマトリートメント・ヘッドスパ。1回3500円〜、完全予約制。都内に3店舗展開。",
+  "targetAudience": {
+    "ageRange": "20〜40代",
+    "gender": "女性メイン（男性も歓迎）",
+    "interests": ["美容", "セルフケア", "リラックス", "健康", "疲労回復", "仕事疲れ"]
+  },
+  "goals": ["brand_awareness", "followers", "lead_generation"],
+  "brandTone": "穏やかで上品、でも親しみやすい。「癒し」と「丁寧さ」を大切にしている",
+  "referenceAccounts": ["@relaxation_beauty", "@spa_lifestyle_jp"],
+  "additionalInfo": "スタッフが若い女性中心で、SNS発信が得意。予約はLINEで受付中。現在フォロワー約500人でこれから伸ばしたい。"
+}
