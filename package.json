@@ -10,7 +10,7 @@
     "plan": "ts-node src/index.ts",
     "web": "next dev --port 3000",
     "web:build": "next build",
-    "web:start": "next start --port 3000"
+    "web:start": "next start"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
